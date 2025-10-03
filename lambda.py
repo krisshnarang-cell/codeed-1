@@ -6,7 +6,6 @@ import tempfile
 import docx
 from pptx import Presentation
 import PyPDF2
-import speech_recognition as sr
 from PIL import Image, ImageDraw, ImageFont
 import textwrap
 from moviepy import ImageClip, concatenate_videoclips, AudioFileClip
